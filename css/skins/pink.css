@@ -1,0 +1,26 @@
+.aside .logo a::before{
+    border-top: 4px solid #ec1839;
+    border-left: 4px solid #ec1839;
+}
+
+.aside .logo a::after{
+    border-right: 4px solid #ec1839;
+    border-bottom: 4px solid #ec1839;
+}
+
+.about-section .about-content .about-text h3 span,
+.aside .nav li a:hover,
+.aside .nav li a.active{
+   color: #ec1839;
+}
+
+.about-section .about-content .skills .skill-item .progress .progress-in,
+.btn,
+.section-title h2::before,
+.section-title h2::after,
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after,
+.home-section .intro .social-links a{
+    background-color: #ec1839;
+}
